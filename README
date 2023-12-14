@@ -1,0 +1,13 @@
+Hello,
+
+There is 3 spring boot application in that project. I named this project as a pigeon which is a dummy company.
+pigeonApp is a spring boot application for rest crud operations on postgresql and kafka operations.
+Service1 and Service2 is microservices examples which services connects each other via HTTP methods.
+
+Project spring boot version is 2.7.18
+Project java version is 8
+
+Used Ubuntu 20.04 as a operating system.
+Postgresql 12 as a db.
+kafka_2.13-2.6.0 as a kafka brooker + zookeeper.
+openlogic-openjdk-8u392-b08-linux-x64 as a JAVA 8 JDK.
